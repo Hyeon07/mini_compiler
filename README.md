@@ -1,5 +1,5 @@
 # Mini C-Compiler
-- Codes about projects for Compiler Design Lab for Course 21CS3201 - Compiler Design Lab
+- project for Compiler Design Lab for Course 21CS3201 - Compiler Design Lab
 - It comprised of four phases:
   - Lexical Analyzer
   - Parser
